@@ -309,8 +309,8 @@ var APP_DATA = {
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
-    "fullscreenButton": false,
+    "autorotateEnabled": true,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
